@@ -7,7 +7,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-mask-aware-clip-representations-for/open-vocabulary-semantic-segmentation-on-5)](https://paperswithcode.com/sota/open-vocabulary-semantic-segmentation-on-5?p=learning-mask-aware-clip-representations-for)
 
 This is the official implementation of our conference paper : "[Learning Mask-aware CLIP Representations for Zero-Shot Segmentation](https://arxiv.org/abs/2310.00240)" (**NeurIPS 2023**).
-![](resources/vis1.gif) ![](resources/vis2.gif)
+![](resources/vis1-720.gif) ![](resources/vis2-720.gif)
 
 ## Introduction
 
