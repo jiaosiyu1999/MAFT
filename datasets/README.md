@@ -14,7 +14,7 @@ $datasets/
 ```
 
 You can set the location for builtin datasets by `export DETECTRON2_DATASETS=/path/to/datasets`.
-If left unset, the default is `./datasets` under the ODISE project directory.
+If left unset, the default is `./datasets` under the MAFT project directory.
 
 
 ## Expected dataset structure for [COCO](https://cocodataset.org/#download):
