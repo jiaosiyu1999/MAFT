@@ -81,7 +81,8 @@ datasets/
 
   |Model|A-847| A-150| PC-459| PC-59| PAS-20 |Weights|Logs|
   |-----|--|-|-|-|--|---|---|
-  |MAFT-ViT-B|10.25|29.14|12.85|53.33|90.44 |[model](https://drive.google.com/file/d/1J3QBMrU65pa8750q5hHiU7bTSsQ5gIAB/view?usp=sharing) |[Log](out/MAFT/log.txt)  | 
+  |[FreeSeg](https://github.com/bytedance/FreeSeg)|7.1|17.9|6.4|34.4|85.6|[freeseg_model.pt](https://drive.google.com/file/d/1vXelXYIBCpxJ3m4B-yDJSbZ1jiJZFjz7/view?usp=sharing) |-| 
+  |MAFT-ViT-B|10.25|29.14|12.85|53.33|90.44 |[MAFT_Vitb.pt](https://drive.google.com/file/d/1J3QBMrU65pa8750q5hHiU7bTSsQ5gIAB/view?usp=sharing) |[Log](out/MAFT/log.txt)  | 
 
 
 - #### Evaluation 
