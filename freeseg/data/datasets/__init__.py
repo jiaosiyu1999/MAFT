@@ -3,4 +3,5 @@ from . import (
     register_coco_stuff_164k,
     register_pcontext,
     register_voc,
+    register_test,
 )
