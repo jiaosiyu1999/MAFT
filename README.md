@@ -8,6 +8,8 @@
 
 This is the official implementation of our conference paper : "[Learning Mask-aware CLIP Representations for Zero-Shot Segmentation](https://arxiv.org/abs/2310.00240)" (**NeurIPS 2023**).
 
+:fire: News: Our paper [MAFT+](https://github.com/jiaosiyu1999/MAFT-Plus) is accepted to ECCV 2024!
+
 <div align="center">
 <img src="resources/vis1-720.gif" width="48%">
 <img src="resources/vis2-720.gif" width="48%">
