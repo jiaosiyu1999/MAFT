@@ -113,8 +113,21 @@ datasets/
 ```
    python train_net.py --config-file configs/coco-stuff-164k-156/mask2former_maft.yaml --num-gpus 4
 ```
-
-
+- #### Inference Demo with Pre-trained Models
+  We provide ```demo/demo.py``` that is able to demo builtin configs. Run it with: 
+  ```
+  python demo/demo.py \
+    --input input1.jpg input2.jpg \
+    [--other-options]
+    --opts MODEL.WEIGHTS /path/to/checkpoint_file
+  ```
+   For example, evaluate our pre-trained ```MAFT_Vitb.pt``` model:
+  ```
+  # 1. Download MAFT-ViT-B.
+  # 2. put it at `out/MAFT_Vitb.pt`.
+  # 3. run demo:
+    python demo/demo.py  --input im.png
+  ```
 
 <span id="6"></span>
 ### Cite 
