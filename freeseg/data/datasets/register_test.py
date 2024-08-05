@@ -31,7 +31,8 @@ import random
 color = [[random.randint(0,255), random.randint(0,255), random.randint(0,255)] for i in range(len(CLASS_NAMES))]
 
 def _get_voc_meta(cat_list):
-    colorlist = [i['color'] for i in color]
+    # colorlist = [i['color'] for i in color]
+    colorlist = color
     ret = {
         "stuff_classes": cat_list,
         "stuff_colors": colorlist,
